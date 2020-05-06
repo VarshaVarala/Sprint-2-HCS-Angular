@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HCS"
+    }
+  },
+  "defaultProject": "HCS",
+  "cli": {
+    "analytics": "0bdda006-c3da-4be4-b333-4c0c7180f957"
+  }
 }
